@@ -12,3 +12,4 @@
 9. Run push command (in order to be able to see the changes in the code live in the web)
 10. Check the github live in the website to verify if the changes were reflected
 11. Make changes, add another file, and repeat the process.
+10. Check the your github code in the web if all changes were reflected
