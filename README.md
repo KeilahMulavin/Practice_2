@@ -13,3 +13,5 @@
 10. Check the github live in the website to verify if the changes were reflected
 11. Make changes, add another file, and repeat the process.
 10. Check the your github code in the web if all changes were reflected
+11. Execute git fetch to see if the updates have occured
+12. Execute git checkout to make another branch.
